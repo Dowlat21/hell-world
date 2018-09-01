@@ -1,0 +1,64 @@
+body {
+   font-family: arial;
+   background-color: #a9d7d1;}
+
+h1 {
+   text-align: center;}
+
+form {
+   background-color: #fafafa;
+   border-radius: 5px;
+   margin-left: 240px;
+   margin-right: 240px;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-bottom: 40px;}
+
+p {
+   text-align: center;
+   padding-top: 25px;}
+
+#name {
+   margin: 20px;}
+
+#name-label input {
+   padding: 5px 120px 5px 4px;
+   margin-left: 14px;}
+
+#email {
+   margin: 20px;}
+
+#email-label input {
+   padding: 5px 120px 5px 4px;
+   margin-left: 14px;}
+
+#number {
+   margin: 20px;}
+
+#number-label input {
+   padding: 5px 5px 5px 4px;}
+
+#dropdown {
+   padding: 5px 60px 5px 4px;
+   margin-left: 14px;
+   margin-top: 20px;
+   margin-right: 20px;
+   margin-bottom: 20px;}
+
+#like {
+   padding: 5px 60px 5px 4px;
+   margin-left: 14px;
+   margin-top: 20px;
+   margin-right: 20px;
+   margin-bottom: 20px;}
+
+#comment {
+   padding: 5px 60px 5px 4px;
+   margin-left: 14px;
+   margin-top: 20px;
+   margin-right: 20px;
+   margin-bottom: 20px;
+   vertical-align: middle;}
+
+#submit {
+   margin-left: 243px;}
